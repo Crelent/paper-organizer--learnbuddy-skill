@@ -1,0 +1,5 @@
+.codebuddy/
+.cloudstudio
+*.log
+.DS_Store
+*.zip
